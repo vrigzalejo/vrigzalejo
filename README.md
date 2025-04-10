@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 v2 Portfolio - In Progress
+
 <!--
 **vrigzalejo/vrigzalejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
